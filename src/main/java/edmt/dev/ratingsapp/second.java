@@ -19,7 +19,7 @@ import java.util.Calendar;
 import java.util.HashMap;
 import java.util.Map;
 
-public class second extends AppCompatActivity {
+public class second extends AppCompatActivity{
     Button reset, history;
     NumberPicker np;
     TextView textView;
