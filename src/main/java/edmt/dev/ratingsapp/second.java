@@ -78,5 +78,5 @@ public class second extends AppCompatActivity {
         Artist artist=new Artist(id,text,current_time);
         dref.child(text).setValue(artist);
         dref.child(current_time).setValue(artist);
-    }
+   }
 }
