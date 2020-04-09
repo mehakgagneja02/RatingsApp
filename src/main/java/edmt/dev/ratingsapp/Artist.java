@@ -21,6 +21,7 @@ public class Artist {
         return artisttext;
     }
     public String getartistcurrent_time(){
+        
         return artistcurrent_time;
     }
 
